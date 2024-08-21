@@ -12,29 +12,18 @@
 
     <script>
         async function fetchData(id) {
+            console.log("Fetching data for ID:", id);
             const response = await fetch('attributes_cleaned.json');
             const data = await response.json();
+            console.log("Data loaded:", data);
+            
             const result = data[id];
-
             if (result) {
                 document.getElementById('output').textContent = JSON.stringify(result, null, 2);
             } else {
                 document.getElementById('output').textContent = 'ID not found.';
+                console.log("ID not found in data:", id);
             }
-        }
-
-        // Function to get the 'id' parameter from the URL
-        function getQueryParam(param) {
-            const urlParams = new URLSearchParams(window.location.search);
-            return urlParams.get(param);
-        }
-
-        // On page load, fetch data if 'id' parameter is present
-        const id = getQueryParam('id');
-        if (id) {
-            fetchData(id);
-        } else {
-            document.getElementById('output').textContent = 'No ID provided in the URL.';
         }
     </script>
 </body>
