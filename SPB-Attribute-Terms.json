@@ -1,0 +1,1787 @@
+[
+    {
+        "array": [
+            {
+                "id": 15547,
+                "name": "Til almindelige fødder",
+                "slug": "til-almindelige-foedder"
+            },
+            {
+                "id": 15548,
+                "name": "Til brede fødder",
+                "slug": "til-brede-foedder"
+            },
+            {
+                "id": 15559,
+                "name": "Til smalle fødder",
+                "slug": "til-smalle-foedder"
+            },
+            {
+                "id": 15727,
+                "name": "Abena",
+                "slug": "abena"
+            },
+            {
+                "id": 15549,
+                "name": "Arcopedico",
+                "slug": "arcopedico"
+            },
+            {
+                "id": 20790,
+                "name": "Badstadgruppen",
+                "slug": "badstadgruppen"
+            },
+            {
+                "id": 15734,
+                "name": "Bama",
+                "slug": "bama"
+            },
+            {
+                "id": 15583,
+                "name": "Birkenstock",
+                "slug": "birkenstock"
+            },
+            {
+                "id": 20799,
+                "name": "BRIX",
+                "slug": "brix"
+            },
+            {
+                "id": 15796,
+                "name": "Byxor",
+                "slug": "byxor"
+            },
+            {
+                "id": 15844,
+                "name": "CMP",
+                "slug": "cmp"
+            },
+            {
+                "id": 15569,
+                "name": "Crocs",
+                "slug": "crocs"
+            },
+            {
+                "id": 15585,
+                "name": "Cruz",
+                "slug": "cruz"
+            },
+            {
+                "id": 15728,
+                "name": "DAX",
+                "slug": "dax"
+            },
+            {
+                "id": 15560,
+                "name": "Duffy",
+                "slug": "duffy"
+            },
+            {
+                "id": 15739,
+                "name": "Endurance",
+                "slug": "endurance"
+            },
+            {
+                "id": 15783,
+                "name": "FitFlop",
+                "slug": "fitflop"
+            },
+            {
+                "id": 15580,
+                "name": "Gaitline",
+                "slug": "gaitline"
+            },
+            {
+                "id": 15732,
+                "name": "Gima",
+                "slug": "gima"
+            },
+            {
+                "id": 15831,
+                "name": "Green Comfort",
+                "slug": "green-comfort"
+            },
+            {
+                "id": 15714,
+                "name": "Heine",
+                "slug": "heine"
+            },
+            {
+                "id": 15881,
+                "name": "Hummel",
+                "slug": "hummel"
+            },
+            {
+                "id": 15874,
+                "name": "ID",
+                "slug": "id"
+            },
+            {
+                "id": 15745,
+                "name": "Jobst",
+                "slug": "jobst"
+            },
+            {
+                "id": 21925,
+                "name": "JOHA",
+                "slug": "joha"
+            },
+            {
+                "id": 15643,
+                "name": "Kibodan",
+                "slug": "kibodan"
+            },
+            {
+                "id": 15729,
+                "name": "Klinion",
+                "slug": "klinion"
+            },
+            {
+                "id": 15823,
+                "name": "MBT",
+                "slug": "mbt"
+            },
+            {
+                "id": 15776,
+                "name": "Medicovi",
+                "slug": "medicovi"
+            },
+            {
+                "id": 15754,
+                "name": "Mediq",
+                "slug": "mediq"
+            },
+            {
+                "id": 15590,
+                "name": "Merrell",
+                "slug": "merrell"
+            },
+            {
+                "id": 15716,
+                "name": "Microlife",
+                "slug": "microlife"
+            },
+            {
+                "id": 15782,
+                "name": "Mols",
+                "slug": "mols"
+            },
+            {
+                "id": 20792,
+                "name": "Monitor",
+                "slug": "monitor"
+            },
+            {
+                "id": 15896,
+                "name": "Nature footwear",
+                "slug": "nature-footwear"
+            },
+            {
+                "id": 15730,
+                "name": "Neutral",
+                "slug": "neutral"
+            },
+            {
+                "id": 15715,
+                "name": "Omron",
+                "slug": "omron"
+            },
+            {
+                "id": 15837,
+                "name": "OrtoMed",
+                "slug": "ortomed"
+            },
+            {
+                "id": 15582,
+                "name": "Podowell",
+                "slug": "podowell"
+            },
+            {
+                "id": 21985,
+                "name": "Relaxshoe",
+                "slug": "relaxshoe"
+            },
+            {
+                "id": 15894,
+                "name": "Remonte",
+                "slug": "remonte"
+            },
+            {
+                "id": 15840,
+                "name": "Rieker",
+                "slug": "rieker"
+            },
+            {
+                "id": 15593,
+                "name": "Schuzz",
+                "slug": "schuzz"
+            },
+            {
+                "id": 15779,
+                "name": "Shoeboy",
+                "slug": "shoeboy"
+            },
+            {
+                "id": 15753,
+                "name": "Sigvaris",
+                "slug": "sigvaris"
+            },
+            {
+                "id": 15587,
+                "name": "Sika Footwear",
+                "slug": "sika-footwear"
+            },
+            {
+                "id": 15738,
+                "name": "Skechers",
+                "slug": "skechers"
+            },
+            {
+                "id": 15838,
+                "name": "Sockwell",
+                "slug": "sockwell"
+            },
+            {
+                "id": 15777,
+                "name": "SSK-Butiken",
+                "slug": "ssk-butiken"
+            },
+            {
+                "id": 15841,
+                "name": "Suecos",
+                "slug": "suecos"
+            },
+            {
+                "id": 15561,
+                "name": "Sygeplejebutikken",
+                "slug": "sygeplejebutikken"
+            },
+            {
+                "id": 15848,
+                "name": "Teva",
+                "slug": "teva"
+            },
+            {
+                "id": 15843,
+                "name": "Vionic",
+                "slug": "vionic"
+            },
+            {
+                "id": 20797,
+                "name": "Vitility",
+                "slug": "vitility"
+            },
+            {
+                "id": 21983,
+                "name": "Whistler",
+                "slug": "whistler"
+            },
+            {
+                "id": 15911,
+                "name": "Woden",
+                "slug": "woden"
+            },
+            {
+                "id": 15849,
+                "name": "286",
+                "slug": "286"
+            },
+            {
+                "id": 21864,
+                "name": "Army grøn",
+                "slug": "army-groen"
+            },
+            {
+                "id": 15746,
+                "name": "beige",
+                "slug": "beige"
+            },
+            {
+                "id": 15677,
+                "name": "Blå",
+                "slug": "blaa"
+            },
+            {
+                "id": 15761,
+                "name": "Blå dråber",
+                "slug": "blaa-draaber"
+            },
+            {
+                "id": 15707,
+                "name": "Blå med hvid skrift",
+                "slug": "blaa-med-hvid-skrift"
+            },
+            {
+                "id": 20818,
+                "name": "Blågrå",
+                "slug": "blaagraa"
+            },
+            {
+                "id": 21827,
+                "name": "Blågrøn",
+                "slug": "blaagroen"
+            },
+            {
+                "id": 15702,
+                "name": "blomme",
+                "slug": "blomme"
+            },
+            {
+                "id": 15694,
+                "name": "Blomster",
+                "slug": "blomster"
+            },
+            {
+                "id": 15885,
+                "name": "bordeaux",
+                "slug": "bordeaux"
+            },
+            {
+                "id": 15673,
+                "name": "Brun",
+                "slug": "brun"
+            },
+            {
+                "id": 15696,
+                "name": "Cirkler",
+                "slug": "cirkler"
+            },
+            {
+                "id": 20810,
+                "name": "Cognac",
+                "slug": "cognac"
+            },
+            {
+                "id": 20812,
+                "name": "Coral",
+                "slug": "coral"
+            },
+            {
+                "id": 20805,
+                "name": "Cremefarvet",
+                "slug": "cremefarvet"
+            },
+            {
+                "id": 20807,
+                "name": "Cremehvid",
+                "slug": "cremehvid"
+            },
+            {
+                "id": 15697,
+                "name": "dråber",
+                "slug": "draaber"
+            },
+            {
+                "id": 22007,
+                "name": "Duset blomster",
+                "slug": "duset-blomster"
+            },
+            {
+                "id": 20830,
+                "name": "Efterårsfarver",
+                "slug": "efteraarsfarver"
+            },
+            {
+                "id": 20780,
+                "name": "Farvelade",
+                "slug": "farvelade"
+            },
+            {
+                "id": 20815,
+                "name": "Fuxia",
+                "slug": "fuxia"
+            },
+            {
+                "id": 15869,
+                "name": "gennemsigtig",
+                "slug": "gennemsigtig"
+            },
+            {
+                "id": 15760,
+                "name": "Giraf prikket",
+                "slug": "giraf-prikket"
+            },
+            {
+                "id": 15692,
+                "name": "giraftern",
+                "slug": "giraftern"
+            },
+            {
+                "id": 15674,
+                "name": "Grå",
+                "slug": "graa"
+            },
+            {
+                "id": 15676,
+                "name": "Grøn",
+                "slug": "groen"
+            },
+            {
+                "id": 15772,
+                "name": "Grøn med gammel rosa",
+                "slug": "groen-med-gammel-rosa"
+            },
+            {
+                "id": 15708,
+                "name": "Grøn med hvid skrift",
+                "slug": "groen-med-hvid-skrift"
+            },
+            {
+                "id": 15689,
+                "name": "Gul",
+                "slug": "gul"
+            },
+            {
+                "id": 15706,
+                "name": "Gul med sort skrift",
+                "slug": "gul-med-sort-skrift"
+            },
+            {
+                "id": 15686,
+                "name": "Guld",
+                "slug": "guld"
+            },
+            {
+                "id": 15709,
+                "name": "Guld med sort skrift",
+                "slug": "guld-med-sort-skrift"
+            },
+            {
+                "id": 15695,
+                "name": "Hundepoter",
+                "slug": "hundepoter"
+            },
+            {
+                "id": 15672,
+                "name": "Hvid",
+                "slug": "hvid"
+            },
+            {
+                "id": 15710,
+                "name": "Hvid med blå skrift",
+                "slug": "hvid-med-blaa-skrift"
+            },
+            {
+                "id": 15904,
+                "name": "Hvid med brunt hår",
+                "slug": "hvid-med-brunt-haar"
+            },
+            {
+                "id": 15664,
+                "name": "Hvid med kappe",
+                "slug": "hvid-med-kappe"
+            },
+            {
+                "id": 15905,
+                "name": "Hvid med lys hår",
+                "slug": "hvid-med-lys-haar"
+            },
+            {
+                "id": 15712,
+                "name": "Hvid med rød skrift",
+                "slug": "hvid-med-roed-skrift"
+            },
+            {
+                "id": 15703,
+                "name": "Hvid med sort skrift",
+                "slug": "hvid-med-sort-skrift"
+            },
+            {
+                "id": 15880,
+                "name": "indigo",
+                "slug": "indigo"
+            },
+            {
+                "id": 20816,
+                "name": "Jordfarver",
+                "slug": "jordfarver"
+            },
+            {
+                "id": 20772,
+                "name": "Julecover grønt",
+                "slug": "1718-xmas-green"
+            },
+            {
+                "id": 20774,
+                "name": "Julecover hvid",
+                "slug": "1718-xmas-white"
+            },
+            {
+                "id": 20773,
+                "name": "Julecover rød",
+                "slug": "1718xred"
+            },
+            {
+                "id": 15886,
+                "name": "kongeblå",
+                "slug": "kongeblaa"
+            },
+            {
+                "id": 15842,
+                "name": "Koral",
+                "slug": "koral"
+            },
+            {
+                "id": 15912,
+                "name": "leopard",
+                "slug": "leopard"
+            },
+            {
+                "id": 15675,
+                "name": "Lilla",
+                "slug": "lilla"
+            },
+            {
+                "id": 15713,
+                "name": "Lilla med hvid skrift",
+                "slug": "lilla-med-hvid-skrift"
+            },
+            {
+                "id": 15775,
+                "name": "Lilla stribet",
+                "slug": "lilla-stribet"
+            },
+            {
+                "id": 20775,
+                "name": "Lilla stribet",
+                "slug": "1718-lilla-stibet"
+            },
+            {
+                "id": 15700,
+                "name": "Limegrøn",
+                "slug": "limegroen"
+            },
+            {
+                "id": 15691,
+                "name": "Lyseblå",
+                "slug": "lyseblaa"
+            },
+            {
+                "id": 15852,
+                "name": "lyseg",
+                "slug": "lyseg"
+            },
+            {
+                "id": 15918,
+                "name": "lysegrå",
+                "slug": "lysegraa"
+            },
+            {
+                "id": 15690,
+                "name": "lysegrøn",
+                "slug": "lysegroen"
+            },
+            {
+                "id": 15687,
+                "name": "Lyserød",
+                "slug": "lyseroed"
+            },
+            {
+                "id": 20771,
+                "name": "Lyserød Lørdag",
+                "slug": "lyseroed-loerdag"
+            },
+            {
+                "id": 15907,
+                "name": "Lysgrå",
+                "slug": "lysgraa"
+            },
+            {
+                "id": 15688,
+                "name": "lyslilla",
+                "slug": "lyslilla"
+            },
+            {
+                "id": 15667,
+                "name": "Med blå stetoskop",
+                "slug": "med-blaa-stetoskop"
+            },
+            {
+                "id": 15665,
+                "name": "Med grøn stetoskop",
+                "slug": "med-groen-stetoskop"
+            },
+            {
+                "id": 15666,
+                "name": "Med gul stetoskop",
+                "slug": "med-gul-stetoskop"
+            },
+            {
+                "id": 22006,
+                "name": "Medicinsk print",
+                "slug": "medicinsk-print"
+            },
+            {
+                "id": 15879,
+                "name": "mint",
+                "slug": "mint"
+            },
+            {
+                "id": 20806,
+                "name": "Mokka",
+                "slug": "mokka"
+            },
+            {
+                "id": 15878,
+                "name": "mørkbordeaux",
+                "slug": "moerkbordeaux"
+            },
+            {
+                "id": 15759,
+                "name": "Mørkeblå",
+                "slug": "moerkeblaa"
+            },
+            {
+                "id": 21871,
+                "name": "Mørkebrun",
+                "slug": "moerkebrun"
+            },
+            {
+                "id": 15863,
+                "name": "mørkeg",
+                "slug": "moerkeg"
+            },
+            {
+                "id": 15851,
+                "name": "mørkegrå",
+                "slug": "moerkegraa"
+            },
+            {
+                "id": 15681,
+                "name": "Mørkegrøn",
+                "slug": "moerkegroen"
+            },
+            {
+                "id": 15683,
+                "name": "Mørkelilla",
+                "slug": "moerkelilla"
+            },
+            {
+                "id": 15682,
+                "name": "multi",
+                "slug": "multi"
+            },
+            {
+                "id": 15670,
+                "name": "navy",
+                "slug": "navy"
+            },
+            {
+                "id": 21969,
+                "name": "Neon",
+                "slug": "neon"
+            },
+            {
+                "id": 15781,
+                "name": "Nude",
+                "slug": "nude"
+            },
+            {
+                "id": 15888,
+                "name": "olivengrøn",
+                "slug": "olivengroen"
+            },
+            {
+                "id": 15684,
+                "name": "Orange",
+                "slug": "orange"
+            },
+            {
+                "id": 20783,
+                "name": "Orange med sort skrift",
+                "slug": "orange-med-sort-skrift"
+            },
+            {
+                "id": 15922,
+                "name": "Pastel",
+                "slug": "pastel"
+            },
+            {
+                "id": 15680,
+                "name": "Pink",
+                "slug": "pink"
+            },
+            {
+                "id": 20776,
+                "name": "Pink leopard",
+                "slug": "pink-leopard"
+            },
+            {
+                "id": 15767,
+                "name": "Polka blå",
+                "slug": "polka-blaa"
+            },
+            {
+                "id": 15765,
+                "name": "Polka grøn",
+                "slug": "polka-groen"
+            },
+            {
+                "id": 15769,
+                "name": "Polka lilla",
+                "slug": "polka-lilla"
+            },
+            {
+                "id": 15768,
+                "name": "Polka lysblå",
+                "slug": "polka-lysblaa"
+            },
+            {
+                "id": 15766,
+                "name": "Polka pink",
+                "slug": "polka-pink"
+            },
+            {
+                "id": 15770,
+                "name": "Polka rød",
+                "slug": "polka-roed"
+            },
+            {
+                "id": 15764,
+                "name": "Polka sort",
+                "slug": "polka-sort"
+            },
+            {
+                "id": 15685,
+                "name": "rosa",
+                "slug": "rosa"
+            },
+            {
+                "id": 15864,
+                "name": "rosegold",
+                "slug": "rosegold"
+            },
+            {
+                "id": 15671,
+                "name": "Rød",
+                "slug": "roed"
+            },
+            {
+                "id": 15704,
+                "name": "Rød med hvid skrift",
+                "slug": "roed-med-hvid-skrift"
+            },
+            {
+                "id": 15890,
+                "name": "sand",
+                "slug": "sand"
+            },
+            {
+                "id": 15893,
+                "name": "sandfarvet",
+                "slug": "sandfarvet"
+            },
+            {
+                "id": 22008,
+                "name": "Smart print",
+                "slug": "smart-print"
+            },
+            {
+                "id": 15763,
+                "name": "Sommerfugle mønster",
+                "slug": "sommerfugle-moenster"
+            },
+            {
+                "id": 20809,
+                "name": "Cognac",
+                "slug": "cognac"
+            },
+            {
+                "id": 20811,
+                "name": "Coral",
+                "slug": "coral"
+            },
+            {
+                "id": 15551,
+                "name": "Dame",
+                "slug": "dame"
+            },
+            {
+                "id": 15562,
+                "name": "Herre",
+                "slug": "herre"
+            },
+            {
+                "id": 20764,
+                "name": "Kvinnor",
+                "slug": "kvinnor"
+            },
+            {
+                "id": 20765,
+                "name": "Män",
+                "slug": "man"
+            },
+            {
+                "id": 15875,
+                "name": "2XL",
+                "slug": "2xl"
+            },
+            {
+                "id": 21882,
+                "name": "2XL Hofte 126-135",
+                "slug": "2xl-hofte-126-135"
+            },
+            {
+                "id": 21906,
+                "name": "2XL/3XL",
+                "slug": "2xl-3xl"
+            },
+            {
+                "id": 15866,
+                "name": "36",
+                "slug": "36"
+            },
+            {
+                "id": 15867,
+                "name": "38",
+                "slug": "38"
+            },
+            {
+                "id": 15876,
+                "name": "3XL",
+                "slug": "3xl"
+            },
+            {
+                "id": 21883,
+                "name": "3XL Hofte 136-145",
+                "slug": "3xl-hofte-136-145"
+            },
+            {
+                "id": 15892,
+                "name": "40",
+                "slug": "40"
+            },
+            {
+                "id": 15868,
+                "name": "42",
+                "slug": "42"
+            },
+            {
+                "id": 15797,
+                "name": "44",
+                "slug": "44"
+            },
+            {
+                "id": 15798,
+                "name": "46",
+                "slug": "46"
+            },
+            {
+                "id": 15799,
+                "name": "48",
+                "slug": "48"
+            },
+            {
+                "id": 15877,
+                "name": "4XL",
+                "slug": "4xl"
+            },
+            {
+                "id": 21884,
+                "name": "4XL Hofte 146-155",
+                "slug": "4xl-hofte-146-155"
+            },
+            {
+                "id": 15800,
+                "name": "50",
+                "slug": "50"
+            },
+            {
+                "id": 15801,
+                "name": "52",
+                "slug": "52"
+            },
+            {
+                "id": 15802,
+                "name": "54",
+                "slug": "54"
+            },
+            {
+                "id": 15883,
+                "name": "5XL",
+                "slug": "5xl"
+            },
+            {
+                "id": 15884,
+                "name": "6XL",
+                "slug": "6xl"
+            },
+            {
+                "id": 15747,
+                "name": "I",
+                "slug": "i"
+            },
+            {
+                "id": 15748,
+                "name": "II",
+                "slug": "ii"
+            },
+            {
+                "id": 15749,
+                "name": "III",
+                "slug": "iii"
+            },
+            {
+                "id": 15750,
+                "name": "IV",
+                "slug": "iv"
+            },
+            {
+                "id": 15757,
+                "name": "L",
+                "slug": "l"
+            },
+            {
+                "id": 21880,
+                "name": "L Hofte 106-115",
+                "slug": "l-hofte-106-115"
+            },
+            {
+                "id": 15791,
+                "name": "L/XL",
+                "slug": "l-xl"
+            },
+            {
+                "id": 15756,
+                "name": "M",
+                "slug": "m"
+            },
+            {
+                "id": 21879,
+                "name": "M Hofte 99-105",
+                "slug": "m-hofte-99-105"
+            },
+            {
+                "id": 15909,
+                "name": "M/L",
+                "slug": "m-l"
+            },
+            {
+                "id": 15755,
+                "name": "S",
+                "slug": "s"
+            },
+            {
+                "id": 21876,
+                "name": "S Hofte 93-98cm",
+                "slug": "s-hofte-93-98cm"
+            },
+            {
+                "id": 15790,
+                "name": "S/M",
+                "slug": "s-m"
+            },
+            {
+                "id": 15751,
+                "name": "V",
+                "slug": "v"
+            },
+            {
+                "id": 15752,
+                "name": "VI",
+                "slug": "vi"
+            },
+            {
+                "id": 15758,
+                "name": "XL",
+                "slug": "xl"
+            },
+            {
+                "id": 21881,
+                "name": "XL Hofte 116-124",
+                "slug": "xl-hofte-116-124"
+            },
+            {
+                "id": 15820,
+                "name": "XS",
+                "slug": "xs"
+            },
+            {
+                "id": 21875,
+                "name": "XS Hofte 84-87cm",
+                "slug": "xs-hofte-84-87cm"
+            },
+            {
+                "id": 21878,
+                "name": "XS Hofte 93-98",
+                "slug": "xs-hofte-93-98"
+            },
+            {
+                "id": 21877,
+                "name": "XXS Hofte 84-87",
+                "slug": "xxs-hofte-84-87"
+            },
+            {
+                "id": 15789,
+                "name": "XXS/XS",
+                "slug": "xxs-xs"
+            },
+            {
+                "id": 20789,
+                "name": "33",
+                "slug": "33"
+            },
+            {
+                "id": 20788,
+                "name": "34",
+                "slug": "34"
+            },
+            {
+                "id": 15589,
+                "name": "35",
+                "slug": "35"
+            },
+            {
+                "id": 20808,
+                "name": "35,5",
+                "slug": "355"
+            },
+            {
+                "id": 15552,
+                "name": "36",
+                "slug": "36"
+            },
+            {
+                "id": 15570,
+                "name": "36,5",
+                "slug": "365"
+            },
+            {
+                "id": 15553,
+                "name": "37",
+                "slug": "37"
+            },
+            {
+                "id": 15571,
+                "name": "37,5",
+                "slug": "375"
+            },
+            {
+                "id": 15554,
+                "name": "38",
+                "slug": "38"
+            },
+            {
+                "id": 15572,
+                "name": "38,5",
+                "slug": "385"
+            },
+            {
+                "id": 15555,
+                "name": "39",
+                "slug": "39"
+            },
+            {
+                "id": 15573,
+                "name": "39,5",
+                "slug": "395"
+            },
+            {
+                "id": 15556,
+                "name": "40",
+                "slug": "40"
+            },
+            {
+                "id": 15736,
+                "name": "40,5",
+                "slug": "405"
+            },
+            {
+                "id": 15557,
+                "name": "41",
+                "slug": "41"
+            },
+            {
+                "id": 21863,
+                "name": "41 bred",
+                "slug": "41-bred"
+            },
+            {
+                "id": 21862,
+                "name": "41 smal",
+                "slug": "41-smal"
+            },
+            {
+                "id": 15574,
+                "name": "41,5",
+                "slug": "415"
+            },
+            {
+                "id": 15558,
+                "name": "42",
+                "slug": "42"
+            },
+            {
+                "id": 21970,
+                "name": "42 bred",
+                "slug": "42-bred"
+            },
+            {
+                "id": 15575,
+                "name": "42,5",
+                "slug": "425"
+            },
+            {
+                "id": 15563,
+                "name": "43",
+                "slug": "43"
+            },
+            {
+                "id": 21971,
+                "name": "43 bred",
+                "slug": "43-bred"
+            },
+            {
+                "id": 15576,
+                "name": "43,5",
+                "slug": "435"
+            },
+            {
+                "id": 15564,
+                "name": "44",
+                "slug": "44"
+            },
+            {
+                "id": 15737,
+                "name": "44,5",
+                "slug": "445"
+            },
+            {
+                "id": 15565,
+                "name": "45",
+                "slug": "45"
+            },
+            {
+                "id": 15577,
+                "name": "45,5",
+                "slug": "455"
+            },
+            {
+                "id": 15566,
+                "name": "46",
+                "slug": "46"
+            },
+            {
+                "id": 15578,
+                "name": "46,5",
+                "slug": "465"
+            },
+            {
+                "id": 15780,
+                "name": "47",
+                "slug": "47"
+            },
+            {
+                "id": 15778,
+                "name": "47,5",
+                "slug": "475"
+            },
+            {
+                "id": 15792,
+                "name": "48",
+                "slug": "48"
+            },
+            {
+                "id": 15579,
+                "name": "48,5",
+                "slug": "485"
+            },
+            {
+                "id": 22025,
+                "name": "49",
+                "slug": "49"
+            },
+            {
+                "id": 20813,
+                "name": "49,5",
+                "slug": "495"
+            },
+            {
+                "id": 15793,
+                "name": "50",
+                "slug": "50"
+            },
+            {
+                "id": 15794,
+                "name": "52",
+                "slug": "52"
+            },
+            {
+                "id": 15795,
+                "name": "54",
+                "slug": "54"
+            },
+            {
+                "id": 15612,
+                "name": "Guld",
+                "slug": "guld"
+            },
+            {
+                "id": 15845,
+                "name": "Læder",
+                "slug": "laeder"
+            },
+            {
+                "id": 15600,
+                "name": "Plast",
+                "slug": "plast"
+            },
+            {
+                "id": 15604,
+                "name": "Silikone",
+                "slug": "silikone"
+            },
+            {
+                "id": 15594,
+                "name": "Stål",
+                "slug": "staal"
+            },
+            {
+                "id": 15605,
+                "name": "Dato",
+                "slug": "dato"
+            },
+            {
+                "id": 15627,
+                "name": "Digital",
+                "slug": "digital"
+            },
+            {
+                "id": 15597,
+                "name": "Hjerteformet",
+                "slug": "hjerteformet"
+            },
+            {
+                "id": 15598,
+                "name": "Krystaller",
+                "slug": "krystaller"
+            },
+            {
+                "id": 15614,
+                "name": "Pakke",
+                "slug": "pakke"
+            },
+            {
+                "id": 15595,
+                "name": "Rundt",
+                "slug": "rundt"
+            },
+            {
+                "id": 15633,
+                "name": "Rustikt",
+                "slug": "rustikt"
+            },
+            {
+                "id": 15599,
+                "name": "Selvlysende",
+                "slug": "selvlysende"
+            },
+            {
+                "id": 15632,
+                "name": "Sommerfugl",
+                "slug": "sommerfugl"
+            },
+            {
+                "id": 15603,
+                "name": "Stål",
+                "slug": "staal"
+            },
+            {
+                "id": 15788,
+                "name": "BH",
+                "slug": "bh"
+            },
+            {
+                "id": 15889,
+                "name": "Bukser",
+                "slug": "bukser"
+            },
+            {
+                "id": 15887,
+                "name": "Cardigan",
+                "slug": "cardigan"
+            },
+            {
+                "id": 15662,
+                "name": "CPR-masker",
+                "slug": "cpr-masker"
+            },
+            {
+                "id": 15895,
+                "name": "Cup",
+                "slug": "cup"
+            },
+            {
+                "id": 15659,
+                "name": "Kuglepenne",
+                "slug": "kuglepenne"
+            },
+            {
+                "id": 15658,
+                "name": "Lommebeskyttere",
+                "slug": "lommebeskyttere"
+            },
+            {
+                "id": 15640,
+                "name": "Lommeregnere",
+                "slug": "lommeregnere"
+            },
+            {
+                "id": 15636,
+                "name": "Lygter",
+                "slug": "lygter"
+            },
+            {
+                "id": 15661,
+                "name": "Måleredskaber",
+                "slug": "maaleredskaber"
+            },
+            {
+                "id": 15641,
+                "name": "Medicindosering",
+                "slug": "medicindosering"
+            },
+            {
+                "id": 15660,
+                "name": "Nøgleringe",
+                "slug": "noegleringe"
+            },
+            {
+                "id": 15639,
+                "name": "Pakker",
+                "slug": "pakker"
+            },
+            {
+                "id": 15638,
+                "name": "Penholdere",
+                "slug": "penholdere"
+            },
+            {
+                "id": 15637,
+                "name": "Pincetter",
+                "slug": "pincetter"
+            },
+            {
+                "id": 15891,
+                "name": "Plakat",
+                "slug": "plakat"
+            },
+            {
+                "id": 15635,
+                "name": "Sakse",
+                "slug": "sakse"
+            },
+            {
+                "id": 15735,
+                "name": "Såler",
+                "slug": "saaler"
+            },
+            {
+                "id": 15663,
+                "name": "Sprit",
+                "slug": "sprit"
+            },
+            {
+                "id": 15733,
+                "name": "Strømper",
+                "slug": "stroemper"
+            },
+            {
+                "id": 15873,
+                "name": "T-shirt",
+                "slug": "t-shirt"
+            },
+            {
+                "id": 15642,
+                "name": "Tabletdelere",
+                "slug": "tabletdelere"
+            },
+            {
+                "id": 15668,
+                "name": "Tasker",
+                "slug": "tasker"
+            },
+            {
+                "id": 15865,
+                "name": "Tøj",
+                "slug": "toej"
+            },
+            {
+                "id": 15882,
+                "name": "Vest",
+                "slug": "vest"
+            },
+            {
+                "id": 15717,
+                "name": "100",
+                "slug": "100"
+            },
+            {
+                "id": 15726,
+                "name": "1000",
+                "slug": "1000"
+            },
+            {
+                "id": 15908,
+                "name": "145",
+                "slug": "145"
+            },
+            {
+                "id": 15718,
+                "name": "200",
+                "slug": "200"
+            },
+            {
+                "id": 15719,
+                "name": "300",
+                "slug": "300"
+            },
+            {
+                "id": 15720,
+                "name": "400",
+                "slug": "400"
+            },
+            {
+                "id": 15721,
+                "name": "500",
+                "slug": "500"
+            },
+            {
+                "id": 15722,
+                "name": "600",
+                "slug": "600"
+            },
+            {
+                "id": 15723,
+                "name": "700",
+                "slug": "700"
+            },
+            {
+                "id": 15724,
+                "name": "800",
+                "slug": "800"
+            },
+            {
+                "id": 15725,
+                "name": "900",
+                "slug": "900"
+            },
+            {
+                "id": 15850,
+                "name": "31/34",
+                "slug": "31-34"
+            },
+            {
+                "id": 20770,
+                "name": "34/37",
+                "slug": "34-37"
+            },
+            {
+                "id": 15915,
+                "name": "35/37",
+                "slug": "35-37"
+            },
+            {
+                "id": 15740,
+                "name": "35/38",
+                "slug": "35-38"
+            },
+            {
+                "id": 15919,
+                "name": "35/39",
+                "slug": "35-39"
+            },
+            {
+                "id": 15832,
+                "name": "35/40",
+                "slug": "35-40"
+            },
+            {
+                "id": 15784,
+                "name": "36/38",
+                "slug": "36-38"
+            },
+            {
+                "id": 15834,
+                "name": "36/39",
+                "slug": "36-39"
+            },
+            {
+                "id": 15913,
+                "name": "36/40",
+                "slug": "36-40"
+            },
+            {
+                "id": 15785,
+                "name": "38/40",
+                "slug": "38-40"
+            },
+            {
+                "id": 15741,
+                "name": "39/42",
+                "slug": "39-42"
+            },
+            {
+                "id": 15839,
+                "name": "39/43",
+                "slug": "39-43"
+            },
+            {
+                "id": 15786,
+                "name": "40/42",
+                "slug": "40-42"
+            },
+            {
+                "id": 15835,
+                "name": "40/43",
+                "slug": "40-43"
+            },
+            {
+                "id": 15916,
+                "name": "41/43",
+                "slug": "41-43"
+            },
+            {
+                "id": 15914,
+                "name": "41/45",
+                "slug": "41-45"
+            },
+            {
+                "id": 15833,
+                "name": "41/46",
+                "slug": "41-46"
+            },
+            {
+                "id": 15787,
+                "name": "42/45",
+                "slug": "42-45"
+            },
+            {
+                "id": 15742,
+                "name": "43/46",
+                "slug": "43-46"
+            },
+            {
+                "id": 15743,
+                "name": "43/47",
+                "slug": "43-47"
+            },
+            {
+                "id": 15803,
+                "name": "44/46",
+                "slug": "44-46"
+            },
+            {
+                "id": 15836,
+                "name": "44/47",
+                "slug": "44-47"
+            },
+            {
+                "id": 15917,
+                "name": "46/48",
+                "slug": "46-48"
+            },
+            {
+                "id": 15744,
+                "name": "47/50",
+                "slug": "47-50"
+            },
+            {
+                "id": 15804,
+                "name": "48/50",
+                "slug": "48-50"
+            },
+            {
+                "id": 15805,
+                "name": "52/54",
+                "slug": "52-54"
+            },
+            {
+                "id": 20769,
+                "name": "XS 34-37",
+                "slug": "xs-34-37"
+            },
+            {
+                "id": 15901,
+                "name": "100E",
+                "slug": "100e"
+            },
+            {
+                "id": 15902,
+                "name": "100F",
+                "slug": "100f"
+            },
+            {
+                "id": 15903,
+                "name": "100G",
+                "slug": "100g"
+            },
+            {
+                "id": 21979,
+                "name": "44/46",
+                "slug": "44-46"
+            },
+            {
+                "id": 21980,
+                "name": "48/50",
+                "slug": "48-50"
+            },
+            {
+                "id": 21981,
+                "name": "52/54",
+                "slug": "52-54"
+            },
+            {
+                "id": 15809,
+                "name": "70C",
+                "slug": "70c"
+            },
+            {
+                "id": 22021,
+                "name": "70E",
+                "slug": "70e"
+            },
+            {
+                "id": 15806,
+                "name": "75C",
+                "slug": "75c"
+            },
+            {
+                "id": 15807,
+                "name": "75D",
+                "slug": "75d"
+            },
+            {
+                "id": 15808,
+                "name": "75E",
+                "slug": "75e"
+            },
+            {
+                "id": 15810,
+                "name": "80C",
+                "slug": "80c"
+            },
+            {
+                "id": 15811,
+                "name": "80D",
+                "slug": "80d"
+            },
+            {
+                "id": 15812,
+                "name": "80E",
+                "slug": "80e"
+            },
+            {
+                "id": 15813,
+                "name": "85C",
+                "slug": "85c"
+            },
+            {
+                "id": 15814,
+                "name": "85D",
+                "slug": "85d"
+            },
+            {
+                "id": 15815,
+                "name": "85E",
+                "slug": "85e"
+            },
+            {
+                "id": 15816,
+                "name": "90C",
+                "slug": "90c"
+            },
+            {
+                "id": 15817,
+                "name": "90D",
+                "slug": "90d"
+            },
+            {
+                "id": 15818,
+                "name": "90E",
+                "slug": "90e"
+            },
+            {
+                "id": 15819,
+                "name": "90F",
+                "slug": "90f"
+            },
+            {
+                "id": 15897,
+                "name": "90G",
+                "slug": "90g"
+            },
+            {
+                "id": 15898,
+                "name": "95E",
+                "slug": "95e"
+            },
+            {
+                "id": 15899,
+                "name": "95F",
+                "slug": "95f"
+            },
+            {
+                "id": 15900,
+                "name": "95G",
+                "slug": "95g"
+            },
+            {
+                "id": 15861,
+                "name": "Cirkel m. tekst",
+                "slug": "cirkel-m-tekst"
+            },
+            {
+                "id": 15860,
+                "name": "Hjerte",
+                "slug": "hjerte"
+            },
+            {
+                "id": 15858,
+                "name": "Lytterør",
+                "slug": "lytteroer"
+            },
+            {
+                "id": 15855,
+                "name": "Pilleglas",
+                "slug": "pilleglas"
+            },
+            {
+                "id": 15856,
+                "name": "Pillekapsel",
+                "slug": "pillekapsel"
+            },
+            {
+                "id": 15859,
+                "name": "Reagensglas",
+                "slug": "reagensglas"
+            },
+            {
+                "id": 15853,
+                "name": "Sprøjte",
+                "slug": "sproejte"
+            },
+            {
+                "id": 15857,
+                "name": "Termometer",
+                "slug": "termometer"
+            },
+            {
+                "id": 15872,
+                "name": "iPhone 11",
+                "slug": "iphone-11"
+            },
+            {
+                "id": 15870,
+                "name": "iPhone 8",
+                "slug": "iphone-8"
+            },
+            {
+                "id": 15871,
+                "name": "iPhone X",
+                "slug": "iphone-x"
+            }
+        ],
+        "__IMTAGGLENGTH__": 356
+    }
+]

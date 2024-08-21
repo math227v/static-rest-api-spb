@@ -1,0 +1,1877 @@
+[
+    {
+        "array": [
+            {
+                "id": 25787,
+                "name": "För breda fötter",
+                "slug": "for-breda-fotter"
+            },
+            {
+                "id": 25798,
+                "name": "För smala fötter",
+                "slug": "for-smala-fotter"
+            },
+            {
+                "id": 25786,
+                "name": "För vanliga fötter",
+                "slug": "for-vanliga-fotter"
+            },
+            {
+                "id": 26088,
+                "name": "För vanliga fötter,För breda fötter,",
+                "slug": "for-vanliga-fotterfor-breda-fotter"
+            },
+            {
+                "id": 25870,
+                "name": "Abena",
+                "slug": "abena"
+            },
+            {
+                "id": 25788,
+                "name": "Arcopedico",
+                "slug": "arcopedico"
+            },
+            {
+                "id": 26392,
+                "name": "Badstadgruppen",
+                "slug": "badstadgruppen"
+            },
+            {
+                "id": 25811,
+                "name": "Birkenstock",
+                "slug": "birkenstock"
+            },
+            {
+                "id": 26036,
+                "name": "Byxor",
+                "slug": "byxor"
+            },
+            {
+                "id": 26130,
+                "name": "CMP",
+                "slug": "cmp"
+            },
+            {
+                "id": 25920,
+                "name": "Crocs",
+                "slug": "crocs"
+            },
+            {
+                "id": 25813,
+                "name": "Cruz",
+                "slug": "cruz"
+            },
+            {
+                "id": 25871,
+                "name": "DAX",
+                "slug": "dax"
+            },
+            {
+                "id": 25799,
+                "name": "Duffy",
+                "slug": "duffy"
+            },
+            {
+                "id": 26029,
+                "name": "Endurance",
+                "slug": "endurance"
+            },
+            {
+                "id": 26046,
+                "name": "FitFlop",
+                "slug": "fitflop"
+            },
+            {
+                "id": 25807,
+                "name": "Gaitline",
+                "slug": "gaitline"
+            },
+            {
+                "id": 25886,
+                "name": "Gima",
+                "slug": "gima"
+            },
+            {
+                "id": 26093,
+                "name": "Green Comfort",
+                "slug": "green-comfort"
+            },
+            {
+                "id": 26191,
+                "name": "Hummel",
+                "slug": "hummel"
+            },
+            {
+                "id": 26185,
+                "name": "ID",
+                "slug": "id"
+            },
+            {
+                "id": 25895,
+                "name": "Jobst",
+                "slug": "jobst"
+            },
+            {
+                "id": 26411,
+                "name": "JOHA",
+                "slug": "joha"
+            },
+            {
+                "id": 25872,
+                "name": "Klinion",
+                "slug": "klinion"
+            },
+            {
+                "id": 26085,
+                "name": "MBT",
+                "slug": "mbt"
+            },
+            {
+                "id": 26012,
+                "name": "Medicovi",
+                "slug": "medicovi"
+            },
+            {
+                "id": 25904,
+                "name": "Mediq",
+                "slug": "mediq"
+            },
+            {
+                "id": 25910,
+                "name": "Merrell",
+                "slug": "merrell"
+            },
+            {
+                "id": 26023,
+                "name": "Microlife",
+                "slug": "microlife"
+            },
+            {
+                "id": 26043,
+                "name": "Mols",
+                "slug": "mols"
+            },
+            {
+                "id": 26391,
+                "name": "Monitor",
+                "slug": "monitor"
+            },
+            {
+                "id": 26224,
+                "name": "Nature footwear",
+                "slug": "nature-footwear"
+            },
+            {
+                "id": 25873,
+                "name": "Neutral",
+                "slug": "neutral"
+            },
+            {
+                "id": 25868,
+                "name": "Omron",
+                "slug": "omron"
+            },
+            {
+                "id": 26101,
+                "name": "OrtoMed",
+                "slug": "ortomed"
+            },
+            {
+                "id": 26158,
+                "name": "Podowell",
+                "slug": "podowell"
+            },
+            {
+                "id": 26399,
+                "name": "Relaxshoe",
+                "slug": "relaxshoe"
+            },
+            {
+                "id": 26216,
+                "name": "Remonte",
+                "slug": "remonte"
+            },
+            {
+                "id": 26116,
+                "name": "Rieker",
+                "slug": "rieker"
+            },
+            {
+                "id": 25814,
+                "name": "Schuzz",
+                "slug": "schuzz"
+            },
+            {
+                "id": 26087,
+                "name": "Shoe Biz Copenhagen",
+                "slug": "shoe-biz-copenhagen"
+            },
+            {
+                "id": 26042,
+                "name": "Shoeboy",
+                "slug": "shoeboy"
+            },
+            {
+                "id": 25875,
+                "name": "Sigvaris",
+                "slug": "sigvaris"
+            },
+            {
+                "id": 25816,
+                "name": "Sika Footwear",
+                "slug": "sika-footwear"
+            },
+            {
+                "id": 25893,
+                "name": "Skechers",
+                "slug": "skechers"
+            },
+            {
+                "id": 26111,
+                "name": "Sockwell",
+                "slug": "sockwell"
+            },
+            {
+                "id": 25830,
+                "name": "SSK-Butiken",
+                "slug": "ssk-butiken"
+            },
+            {
+                "id": 26266,
+                "name": "SSKbutiken",
+                "slug": "sskbutiken"
+            },
+            {
+                "id": 26120,
+                "name": "Suecos",
+                "slug": "suecos"
+            },
+            {
+                "id": 25838,
+                "name": "Sygeplejebutikken",
+                "slug": "sygeplejebutikken"
+            },
+            {
+                "id": 26139,
+                "name": "Teva",
+                "slug": "teva"
+            },
+            {
+                "id": 26128,
+                "name": "Vionic",
+                "slug": "vionic"
+            },
+            {
+                "id": 26356,
+                "name": "Vitility",
+                "slug": "vitility"
+            },
+            {
+                "id": 26403,
+                "name": "Whistler",
+                "slug": "whistler"
+            },
+            {
+                "id": 26247,
+                "name": "Woden",
+                "slug": "woden"
+            },
+            {
+                "id": 26148,
+                "name": "286",
+                "slug": "286"
+            },
+            {
+                "id": 26339,
+                "name": "Armégröna",
+                "slug": "armegrona"
+            },
+            {
+                "id": 26335,
+                "name": "Army",
+                "slug": "army"
+            },
+            {
+                "id": 25876,
+                "name": "Beige",
+                "slug": "beige"
+            },
+            {
+                "id": 25818,
+                "name": "Blå",
+                "slug": "bla"
+            },
+            {
+                "id": 25994,
+                "name": "Blå dråber",
+                "slug": "bla-draber"
+            },
+            {
+                "id": 25851,
+                "name": "Blå med vit skrift",
+                "slug": "bla-med-vit-skrift"
+            },
+            {
+                "id": 25966,
+                "name": "Blå med vit typsnitt",
+                "slug": "bla-med-vit-typsnitt"
+            },
+            {
+                "id": 26368,
+                "name": "blå/ grøn",
+                "slug": "bla-gron"
+            },
+            {
+                "id": 26372,
+                "name": "blågrå",
+                "slug": "blagra"
+            },
+            {
+                "id": 25856,
+                "name": "blåröd",
+                "slug": "blarod"
+            },
+            {
+                "id": 26378,
+                "name": "Blommefarvet",
+                "slug": "blommefarvet"
+            },
+            {
+                "id": 25953,
+                "name": "blommor",
+                "slug": "blommor"
+            },
+            {
+                "id": 25995,
+                "name": "Blomster",
+                "slug": "blomster"
+            },
+            {
+                "id": 26187,
+                "name": "bordeaux",
+                "slug": "bordeaux"
+            },
+            {
+                "id": 25945,
+                "name": "Brandgul",
+                "slug": "brandgul"
+            },
+            {
+                "id": 25867,
+                "name": "brun",
+                "slug": "brun"
+            },
+            {
+                "id": 26364,
+                "name": "Bruna",
+                "slug": "bruna"
+            },
+            {
+                "id": 26019,
+                "name": "ceris",
+                "slug": "ceris"
+            },
+            {
+                "id": 25955,
+                "name": "cirklar",
+                "slug": "cirklar"
+            },
+            {
+                "id": 25997,
+                "name": "Cirkler",
+                "slug": "cirkler"
+            },
+            {
+                "id": 26396,
+                "name": "Cognac",
+                "slug": "cognac"
+            },
+            {
+                "id": 26145,
+                "name": "dråber",
+                "slug": "draber"
+            },
+            {
+                "id": 25956,
+                "name": "droppar",
+                "slug": "droppar"
+            },
+            {
+                "id": 26155,
+                "name": "ek",
+                "slug": "ek"
+            },
+            {
+                "id": 26163,
+                "name": "gennemsigtig",
+                "slug": "gennemsigtig"
+            },
+            {
+                "id": 26246,
+                "name": "gennemskinlig",
+                "slug": "gennemskinlig"
+            },
+            {
+                "id": 25952,
+                "name": "giraf",
+                "slug": "giraf"
+            },
+            {
+                "id": 25993,
+                "name": "Giraf prikket",
+                "slug": "giraf-prikket"
+            },
+            {
+                "id": 26144,
+                "name": "giraftern",
+                "slug": "giraftern"
+            },
+            {
+                "id": 25869,
+                "name": "Glas",
+                "slug": "glas"
+            },
+            {
+                "id": 26082,
+                "name": "Gold",
+                "slug": "gold"
+            },
+            {
+                "id": 25808,
+                "name": "grå",
+                "slug": "gra"
+            },
+            {
+                "id": 26125,
+                "name": "Gråblå",
+                "slug": "grabla"
+            },
+            {
+                "id": 26380,
+                "name": "Grön",
+                "slug": "gron-2"
+            },
+            {
+                "id": 25852,
+                "name": "Grön med vit skrift",
+                "slug": "gron-med-vit-skrift"
+            },
+            {
+                "id": 25967,
+                "name": "Grön med vit typsnitt",
+                "slug": "gron-med-vit-typsnitt"
+            },
+            {
+                "id": 25833,
+                "name": "grøn",
+                "slug": "gron"
+            },
+            {
+                "id": 26008,
+                "name": "Grøn med gammel rosa",
+                "slug": "gron-med-gammel-rosa"
+            },
+            {
+                "id": 25844,
+                "name": "Gul",
+                "slug": "gul"
+            },
+            {
+                "id": 25850,
+                "name": "Gul med svart skrift",
+                "slug": "gul-med-svart-skrift"
+            },
+            {
+                "id": 25965,
+                "name": "Gul med svart typsnitt",
+                "slug": "gul-med-svart-typsnitt"
+            },
+            {
+                "id": 25827,
+                "name": "Guld",
+                "slug": "guld"
+            },
+            {
+                "id": 25853,
+                "name": "Guld med svart skrift",
+                "slug": "guld-med-svart-skrift"
+            },
+            {
+                "id": 25968,
+                "name": "Guld med svart typsnitt",
+                "slug": "guld-med-svart-typsnitt"
+            },
+            {
+                "id": 25996,
+                "name": "Hundepoter",
+                "slug": "hundepoter"
+            },
+            {
+                "id": 25819,
+                "name": "Hvid",
+                "slug": "hvid"
+            },
+            {
+                "id": 26237,
+                "name": "Hvid med brunt hår",
+                "slug": "hvid-med-brunt-har"
+            },
+            {
+                "id": 26238,
+                "name": "Hvid med lys hår",
+                "slug": "hvid-med-lys-har"
+            },
+            {
+                "id": 26172,
+                "name": "indigo",
+                "slug": "indigo"
+            },
+            {
+                "id": 26342,
+                "name": "Julecover Grön",
+                "slug": "julecover-gron"
+            },
+            {
+                "id": 26341,
+                "name": "Julecover röd",
+                "slug": "julecover-rod"
+            },
+            {
+                "id": 26343,
+                "name": "Julecover Vit",
+                "slug": "julecover-vit"
+            },
+            {
+                "id": 26325,
+                "name": "Khaki",
+                "slug": "khaki"
+            },
+            {
+                "id": 26124,
+                "name": "Koral",
+                "slug": "koral"
+            },
+            {
+                "id": 26263,
+                "name": "korall",
+                "slug": "korall"
+            },
+            {
+                "id": 26410,
+                "name": "Krämvit",
+                "slug": "kramvit"
+            },
+            {
+                "id": 26248,
+                "name": "leopard",
+                "slug": "leopard"
+            },
+            {
+                "id": 25836,
+                "name": "lila",
+                "slug": "lila"
+            },
+            {
+                "id": 25971,
+                "name": "Lila med vit",
+                "slug": "lila-med-vit"
+            },
+            {
+                "id": 25857,
+                "name": "Lilla",
+                "slug": "lilla"
+            },
+            {
+                "id": 26011,
+                "name": "Lilla stribet",
+                "slug": "lilla-stribet"
+            },
+            {
+                "id": 26171,
+                "name": "lime",
+                "slug": "lime"
+            },
+            {
+                "id": 25990,
+                "name": "Limegrøn",
+                "slug": "limegron"
+            },
+            {
+                "id": 25951,
+                "name": "ljusblå",
+                "slug": "ljusbla"
+            },
+            {
+                "id": 26329,
+                "name": "Ljusbrun",
+                "slug": "ljusbrun"
+            },
+            {
+                "id": 26154,
+                "name": "ljusek",
+                "slug": "ljusek"
+            },
+            {
+                "id": 26255,
+                "name": "ljusgrå",
+                "slug": "ljusgra"
+            },
+            {
+                "id": 25950,
+                "name": "ljusgrön",
+                "slug": "ljusgron"
+            },
+            {
+                "id": 25949,
+                "name": "ljuslila",
+                "slug": "ljuslila"
+            },
+            {
+                "id": 25937,
+                "name": "Ljusröd",
+                "slug": "ljusrod"
+            },
+            {
+                "id": 26239,
+                "name": "ljysgrå",
+                "slug": "ljysgra"
+            },
+            {
+                "id": 25958,
+                "name": "Lys Blå",
+                "slug": "lys-bla"
+            },
+            {
+                "id": 25988,
+                "name": "Lyseblå",
+                "slug": "lysebla"
+            },
+            {
+                "id": 26382,
+                "name": "lysegrå",
+                "slug": "lysegra"
+            },
+            {
+                "id": 26143,
+                "name": "lysegrøn",
+                "slug": "lysegron"
+            },
+            {
+                "id": 25858,
+                "name": "lyserød",
+                "slug": "lyserod"
+            },
+            {
+                "id": 26142,
+                "name": "lyslilla",
+                "slug": "lyslilla"
+            },
+            {
+                "id": 26089,
+                "name": "marin",
+                "slug": "marin"
+            },
+            {
+                "id": 26361,
+                "name": "Marinblå",
+                "slug": "marinbla"
+            },
+            {
+                "id": 25941,
+                "name": "Med blå stetoskop",
+                "slug": "med-bla-stetoskop"
+            },
+            {
+                "id": 25944,
+                "name": "Med grön stetoskop",
+                "slug": "med-gron-stetoskop"
+            },
+            {
+                "id": 25943,
+                "name": "Med gul stetoskop",
+                "slug": "med-gul-stetoskop"
+            },
+            {
+                "id": 26188,
+                "name": "mint",
+                "slug": "mint"
+            },
+            {
+                "id": 26168,
+                "name": "mintgrön",
+                "slug": "mintgron"
+            },
+            {
+                "id": 26022,
+                "name": "mörkblå",
+                "slug": "morkbla"
+            },
+            {
+                "id": 26194,
+                "name": "mörkbordeaux",
+                "slug": "morkbordeaux"
+            },
+            {
+                "id": 26330,
+                "name": "mörkbrun",
+                "slug": "morkbrun"
+            },
+            {
+                "id": 26156,
+                "name": "mörkek",
+                "slug": "morkek"
+            },
+            {
+                "id": 26256,
+                "name": "mörkgrå",
+                "slug": "morkgra"
+            },
+            {
+                "id": 26135,
+                "name": "mörkorange",
+                "slug": "morkorange"
+            },
+            {
+                "id": 26169,
+                "name": "mörkrosa",
+                "slug": "morkrosa"
+            },
+            {
+                "id": 26369,
+                "name": "mørkblå",
+                "slug": "morkbla-2"
+            },
+            {
+                "id": 25991,
+                "name": "Mørkeblå",
+                "slug": "morkebla"
+            },
+            {
+                "id": 26157,
+                "name": "mørkeg",
+                "slug": "morkeg"
+            },
+            {
+                "id": 26153,
+                "name": "Mørkegrå",
+                "slug": "morkegra"
+            },
+            {
+                "id": 26377,
+                "name": "Mørkegrøn",
+                "slug": "morkegron"
+            },
+            {
+                "id": 25989,
+                "name": "Mørkelilla",
+                "slug": "morkelilla"
+            },
+            {
+                "id": 25832,
+                "name": "multi",
+                "slug": "multi"
+            },
+            {
+                "id": 25806,
+                "name": "navy",
+                "slug": "navy"
+            },
+            {
+                "id": 25903,
+                "name": "Barn",
+                "slug": "barn"
+            },
+            {
+                "id": 27040,
+                "name": "Dame",
+                "slug": "dame"
+            },
+            {
+                "id": 26409,
+                "name": "Krämvit",
+                "slug": "kramvit"
+            },
+            {
+                "id": 26092,
+                "name": "Kvinde",
+                "slug": "kvinde"
+            },
+            {
+                "id": 26196,
+                "name": "Kvinde, mænd",
+                "slug": "kvinde-maend"
+            },
+            {
+                "id": 26014,
+                "name": "kvinder",
+                "slug": "kvinder"
+            },
+            {
+                "id": 26204,
+                "name": "kvinder,mænd",
+                "slug": "kvindermaend"
+            },
+            {
+                "id": 26192,
+                "name": "kvinna man",
+                "slug": "kvinna-man"
+            },
+            {
+                "id": 26253,
+                "name": "kvinna, männ",
+                "slug": "kvinna-mann"
+            },
+            {
+                "id": 25790,
+                "name": "Kvinnor",
+                "slug": "kvinnor"
+            },
+            {
+                "id": 26260,
+                "name": "Kvinnor, män",
+                "slug": "kvinnor-man"
+            },
+            {
+                "id": 26381,
+                "name": "lysegrå",
+                "slug": "lysegra"
+            },
+            {
+                "id": 25801,
+                "name": "Män",
+                "slug": "man"
+            },
+            {
+                "id": 26197,
+                "name": "mand",
+                "slug": "mand"
+            },
+            {
+                "id": 26190,
+                "name": "mænd",
+                "slug": "maend"
+            },
+            {
+                "id": 26371,
+                "name": "mørkblå",
+                "slug": "morkbla"
+            },
+            {
+                "id": 26375,
+                "name": "Plommonfärg",
+                "slug": "plommonfarg"
+            },
+            {
+                "id": 26323,
+                "name": "Röd",
+                "slug": "rod"
+            },
+            {
+                "id": 26363,
+                "name": "Rød",
+                "slug": "rod-3"
+            },
+            {
+                "id": 26367,
+                "name": "Sandfarvet",
+                "slug": "sandfarvet"
+            },
+            {
+                "id": 26384,
+                "name": "Vit",
+                "slug": "vit"
+            },
+            {
+                "id": 26183,
+                "name": "2XL",
+                "slug": "2xl"
+            },
+            {
+                "id": 26358,
+                "name": "2XL/3XL",
+                "slug": "2xl-3xl"
+            },
+            {
+                "id": 26184,
+                "name": "3XL",
+                "slug": "3xl"
+            },
+            {
+                "id": 26186,
+                "name": "4XL",
+                "slug": "4xl"
+            },
+            {
+                "id": 26200,
+                "name": "5XL",
+                "slug": "5xl"
+            },
+            {
+                "id": 26201,
+                "name": "6XL",
+                "slug": "6xl"
+            },
+            {
+                "id": 25896,
+                "name": "I",
+                "slug": "i"
+            },
+            {
+                "id": 25897,
+                "name": "II",
+                "slug": "ii"
+            },
+            {
+                "id": 25898,
+                "name": "III",
+                "slug": "iii"
+            },
+            {
+                "id": 25899,
+                "name": "IV",
+                "slug": "iv"
+            },
+            {
+                "id": 25907,
+                "name": "L",
+                "slug": "l"
+            },
+            {
+                "id": 25883,
+                "name": "L/kort",
+                "slug": "l-kort"
+            },
+            {
+                "id": 25880,
+                "name": "L/kort PLUS",
+                "slug": "l-kort-plus"
+            },
+            {
+                "id": 26055,
+                "name": "L/XL",
+                "slug": "l-xl"
+            },
+            {
+                "id": 25906,
+                "name": "M",
+                "slug": "m"
+            },
+            {
+                "id": 25878,
+                "name": "M/kort",
+                "slug": "m-kort"
+            },
+            {
+                "id": 25879,
+                "name": "M/kort PLUS",
+                "slug": "m-kort-plus"
+            },
+            {
+                "id": 26244,
+                "name": "M/L",
+                "slug": "m-l"
+            },
+            {
+                "id": 25882,
+                "name": "M/lang",
+                "slug": "m-lang"
+            },
+            {
+                "id": 25905,
+                "name": "S",
+                "slug": "s"
+            },
+            {
+                "id": 25877,
+                "name": "S/kort",
+                "slug": "s-kort"
+            },
+            {
+                "id": 25881,
+                "name": "S/lang",
+                "slug": "s-lang"
+            },
+            {
+                "id": 26054,
+                "name": "S/M",
+                "slug": "s-m"
+            },
+            {
+                "id": 25900,
+                "name": "V",
+                "slug": "v"
+            },
+            {
+                "id": 25901,
+                "name": "VI",
+                "slug": "vi"
+            },
+            {
+                "id": 25908,
+                "name": "XL",
+                "slug": "xl"
+            },
+            {
+                "id": 25884,
+                "name": "XL/kort",
+                "slug": "xl-kort"
+            },
+            {
+                "id": 26195,
+                "name": "XS",
+                "slug": "xs"
+            },
+            {
+                "id": 26037,
+                "name": "XXS/XS",
+                "slug": "xxs-xs"
+            },
+            {
+                "id": 26035,
+                "name": "XXS/XS,S/M,L/XL",
+                "slug": "xxs-xss-ml-xl"
+            },
+            {
+                "id": 26241,
+                "name": "145",
+                "slug": "145"
+            },
+            {
+                "id": 26275,
+                "name": "35",
+                "slug": "35"
+            },
+            {
+                "id": 26393,
+                "name": "35,5",
+                "slug": "355"
+            },
+            {
+                "id": 25791,
+                "name": "36",
+                "slug": "36"
+            },
+            {
+                "id": 25935,
+                "name": "36,5",
+                "slug": "365"
+            },
+            {
+                "id": 25792,
+                "name": "37",
+                "slug": "37"
+            },
+            {
+                "id": 25894,
+                "name": "37,5",
+                "slug": "375"
+            },
+            {
+                "id": 25793,
+                "name": "38",
+                "slug": "38"
+            },
+            {
+                "id": 25809,
+                "name": "38,5",
+                "slug": "385"
+            },
+            {
+                "id": 25794,
+                "name": "39",
+                "slug": "39"
+            },
+            {
+                "id": 25925,
+                "name": "39,5",
+                "slug": "395"
+            },
+            {
+                "id": 25795,
+                "name": "40",
+                "slug": "40"
+            },
+            {
+                "id": 25890,
+                "name": "40,5",
+                "slug": "405"
+            },
+            {
+                "id": 25796,
+                "name": "41",
+                "slug": "41"
+            },
+            {
+                "id": 26338,
+                "name": "41 bred",
+                "slug": "41-bred"
+            },
+            {
+                "id": 26337,
+                "name": "41 smal",
+                "slug": "41-smal"
+            },
+            {
+                "id": 25926,
+                "name": "41,5",
+                "slug": "415"
+            },
+            {
+                "id": 25797,
+                "name": "42",
+                "slug": "42"
+            },
+            {
+                "id": 26394,
+                "name": "42 bred",
+                "slug": "42-bred"
+            },
+            {
+                "id": 25891,
+                "name": "42,5",
+                "slug": "425"
+            },
+            {
+                "id": 25802,
+                "name": "43",
+                "slug": "43"
+            },
+            {
+                "id": 26395,
+                "name": "43 bred",
+                "slug": "43-bred"
+            },
+            {
+                "id": 25927,
+                "name": "43,5",
+                "slug": "435"
+            },
+            {
+                "id": 25803,
+                "name": "44",
+                "slug": "44"
+            },
+            {
+                "id": 25892,
+                "name": "44,5",
+                "slug": "445"
+            },
+            {
+                "id": 25804,
+                "name": "45",
+                "slug": "45"
+            },
+            {
+                "id": 25810,
+                "name": "45,5",
+                "slug": "455"
+            },
+            {
+                "id": 25805,
+                "name": "46",
+                "slug": "46"
+            },
+            {
+                "id": 25928,
+                "name": "46,5",
+                "slug": "465"
+            },
+            {
+                "id": 25934,
+                "name": "47",
+                "slug": "47"
+            },
+            {
+                "id": 26021,
+                "name": "47,5",
+                "slug": "475"
+            },
+            {
+                "id": 26056,
+                "name": "48",
+                "slug": "48"
+            },
+            {
+                "id": 25929,
+                "name": "48,5",
+                "slug": "485"
+            },
+            {
+                "id": 26407,
+                "name": "49",
+                "slug": "49"
+            },
+            {
+                "id": 26057,
+                "name": "50",
+                "slug": "50"
+            },
+            {
+                "id": 26058,
+                "name": "52",
+                "slug": "52"
+            },
+            {
+                "id": 26059,
+                "name": "54",
+                "slug": "54"
+            },
+            {
+                "id": 26079,
+                "name": "S 39,5",
+                "slug": "s-395"
+            },
+            {
+                "id": 25825,
+                "name": "Guld",
+                "slug": "guld"
+            },
+            {
+                "id": 25820,
+                "name": "Plast",
+                "slug": "plast"
+            },
+            {
+                "id": 26277,
+                "name": "Silikon",
+                "slug": "silikon"
+            },
+            {
+                "id": 25831,
+                "name": "Silikone",
+                "slug": "silikone"
+            },
+            {
+                "id": 25822,
+                "name": "Stål",
+                "slug": "stal"
+            },
+            {
+                "id": 26434,
+                "name": "Dato",
+                "slug": "dato"
+            },
+            {
+                "id": 26433,
+                "name": "Digital",
+                "slug": "digital"
+            },
+            {
+                "id": 25826,
+                "name": "Rundt",
+                "slug": "rundt"
+            },
+            {
+                "id": 26052,
+                "name": "BH",
+                "slug": "bh"
+            },
+            {
+                "id": 26207,
+                "name": "Bukser",
+                "slug": "bukser"
+            },
+            {
+                "id": 26202,
+                "name": "Cardigan",
+                "slug": "cardigan"
+            },
+            {
+                "id": 26220,
+                "name": "Cup",
+                "slug": "cup"
+            },
+            {
+                "id": 26451,
+                "name": "Fickskydd",
+                "slug": "fickskydd"
+            },
+            {
+                "id": 25862,
+                "name": "mätredskap",
+                "slug": "matredskap"
+            },
+            {
+                "id": 25861,
+                "name": "Medicindosering",
+                "slug": "medicindosering"
+            },
+            {
+                "id": 26452,
+                "name": "Nyckelring",
+                "slug": "nyckelring"
+            },
+            {
+                "id": 26015,
+                "name": "pennor",
+                "slug": "pennor"
+            },
+            {
+                "id": 25860,
+                "name": "Pincetter",
+                "slug": "pincetter"
+            },
+            {
+                "id": 26210,
+                "name": "Plakat",
+                "slug": "plakat"
+            },
+            {
+                "id": 26203,
+                "name": "Sakse",
+                "slug": "sakse"
+            },
+            {
+                "id": 26167,
+                "name": "saxar",
+                "slug": "saxar"
+            },
+            {
+                "id": 25865,
+                "name": "Sprit",
+                "slug": "sprit"
+            },
+            {
+                "id": 25987,
+                "name": "Strumpor",
+                "slug": "strumpor"
+            },
+            {
+                "id": 25888,
+                "name": "sulor",
+                "slug": "sulor"
+            },
+            {
+                "id": 26189,
+                "name": "T-shirt",
+                "slug": "t-shirt"
+            },
+            {
+                "id": 25960,
+                "name": "Tillbehör",
+                "slug": "tillbehor"
+            },
+            {
+                "id": 26159,
+                "name": "Tøj",
+                "slug": "toj"
+            },
+            {
+                "id": 26198,
+                "name": "väst",
+                "slug": "vast"
+            },
+            {
+                "id": 26199,
+                "name": "Vest",
+                "slug": "vest"
+            },
+            {
+                "id": 25976,
+                "name": "100 kr",
+                "slug": "100-kr"
+            },
+            {
+                "id": 25985,
+                "name": "1000 kr",
+                "slug": "1000-kr"
+            },
+            {
+                "id": 25977,
+                "name": "200 kr",
+                "slug": "200-kr"
+            },
+            {
+                "id": 25978,
+                "name": "300 kr",
+                "slug": "300-kr"
+            },
+            {
+                "id": 25979,
+                "name": "400 kr",
+                "slug": "400-kr"
+            },
+            {
+                "id": 25980,
+                "name": "500 kr",
+                "slug": "500-kr"
+            },
+            {
+                "id": 25981,
+                "name": "600 kr",
+                "slug": "600-kr"
+            },
+            {
+                "id": 25982,
+                "name": "700 kr",
+                "slug": "700-kr"
+            },
+            {
+                "id": 25983,
+                "name": "800 kr",
+                "slug": "800-kr"
+            },
+            {
+                "id": 25984,
+                "name": "900 kr",
+                "slug": "900-kr"
+            },
+            {
+                "id": 26150,
+                "name": "31/34",
+                "slug": "31-34"
+            },
+            {
+                "id": 26078,
+                "name": "34/38",
+                "slug": "34-38"
+            },
+            {
+                "id": 26251,
+                "name": "35/37",
+                "slug": "35-37"
+            },
+            {
+                "id": 26032,
+                "name": "35/38",
+                "slug": "35-38"
+            },
+            {
+                "id": 26261,
+                "name": "35/39",
+                "slug": "35-39"
+            },
+            {
+                "id": 26096,
+                "name": "35/40",
+                "slug": "35-40"
+            },
+            {
+                "id": 26098,
+                "name": "36/39",
+                "slug": "36-39"
+            },
+            {
+                "id": 26249,
+                "name": "36/40",
+                "slug": "36-40"
+            },
+            {
+                "id": 26252,
+                "name": "38/40",
+                "slug": "38-40"
+            },
+            {
+                "id": 26033,
+                "name": "39/42",
+                "slug": "39-42"
+            },
+            {
+                "id": 26113,
+                "name": "39/43",
+                "slug": "39-43"
+            },
+            {
+                "id": 26099,
+                "name": "40/43",
+                "slug": "40-43"
+            },
+            {
+                "id": 26080,
+                "name": "41/43",
+                "slug": "41-43"
+            },
+            {
+                "id": 26250,
+                "name": "41/45",
+                "slug": "41-45"
+            },
+            {
+                "id": 26097,
+                "name": "41/46",
+                "slug": "41-46"
+            },
+            {
+                "id": 26039,
+                "name": "43/46",
+                "slug": "43-46"
+            },
+            {
+                "id": 26034,
+                "name": "43/47",
+                "slug": "43-47"
+            },
+            {
+                "id": 26060,
+                "name": "44/46",
+                "slug": "44-46"
+            },
+            {
+                "id": 26081,
+                "name": "44/47",
+                "slug": "44-47"
+            },
+            {
+                "id": 26100,
+                "name": "44/48",
+                "slug": "44-48"
+            },
+            {
+                "id": 26254,
+                "name": "46/48",
+                "slug": "46-48"
+            },
+            {
+                "id": 26040,
+                "name": "47/50",
+                "slug": "47-50"
+            },
+            {
+                "id": 26061,
+                "name": "48/50",
+                "slug": "48-50"
+            },
+            {
+                "id": 26062,
+                "name": "52/54",
+                "slug": "52-54"
+            },
+            {
+                "id": 26233,
+                "name": "100E",
+                "slug": "100e"
+            },
+            {
+                "id": 26234,
+                "name": "100F",
+                "slug": "100f"
+            },
+            {
+                "id": 26235,
+                "name": "100G",
+                "slug": "100g"
+            },
+            {
+                "id": 26067,
+                "name": "70C",
+                "slug": "70c"
+            },
+            {
+                "id": 26064,
+                "name": "75C",
+                "slug": "75c"
+            },
+            {
+                "id": 26063,
+                "name": "75C,75D,75E,80C,80D,80E,85C,85D,85E",
+                "slug": "75c75d75e80c80d80e85c85d85e"
+            },
+            {
+                "id": 26065,
+                "name": "75D",
+                "slug": "75d"
+            },
+            {
+                "id": 26066,
+                "name": "75E",
+                "slug": "75e"
+            },
+            {
+                "id": 26068,
+                "name": "80C",
+                "slug": "80c"
+            },
+            {
+                "id": 26069,
+                "name": "80D",
+                "slug": "80d"
+            },
+            {
+                "id": 26070,
+                "name": "80E",
+                "slug": "80e"
+            },
+            {
+                "id": 26071,
+                "name": "85C",
+                "slug": "85c"
+            },
+            {
+                "id": 26072,
+                "name": "85D",
+                "slug": "85d"
+            },
+            {
+                "id": 26073,
+                "name": "85E",
+                "slug": "85e"
+            },
+            {
+                "id": 26074,
+                "name": "90C",
+                "slug": "90c"
+            },
+            {
+                "id": 26075,
+                "name": "90D",
+                "slug": "90d"
+            },
+            {
+                "id": 26076,
+                "name": "90E",
+                "slug": "90e"
+            },
+            {
+                "id": 26077,
+                "name": "90F",
+                "slug": "90f"
+            },
+            {
+                "id": 26229,
+                "name": "90G",
+                "slug": "90g"
+            },
+            {
+                "id": 26230,
+                "name": "95E",
+                "slug": "95e"
+            },
+            {
+                "id": 26231,
+                "name": "95F",
+                "slug": "95f"
+            },
+            {
+                "id": 26232,
+                "name": "95G",
+                "slug": "95g"
+            },
+            {
+                "id": 25823,
+                "name": ",",
+                "slug": "25823"
+            },
+            {
+                "id": 25864,
+                "name": "15 sekunder",
+                "slug": "15-sekunder"
+            },
+            {
+                "id": 26050,
+                "name": "2go",
+                "slug": "2go"
+            },
+            {
+                "id": 26286,
+                "name": "2XL",
+                "slug": "2xl"
+            },
+            {
+                "id": 25863,
+                "name": "30 sekunder",
+                "slug": "30-sekunder"
+            },
+            {
+                "id": 26287,
+                "name": "3XL",
+                "slug": "3xl"
+            },
+            {
+                "id": 26180,
+                "name": "arbetskläder",
+                "slug": "arbetsklader"
+            },
+            {
+                "id": 26206,
+                "name": "byxor",
+                "slug": "byxor"
+            },
+            {
+                "id": 26274,
+                "name": "ficklampa",
+                "slug": "ficklampa"
+            },
+            {
+                "id": 26276,
+                "name": "fickskydd",
+                "slug": "fickskydd"
+            },
+            {
+                "id": 26267,
+                "name": "flergångs",
+                "slug": "flergangs"
+            },
+            {
+                "id": 26160,
+                "name": "kläder",
+                "slug": "klader"
+            },
+            {
+                "id": 26284,
+                "name": "L",
+                "slug": "l"
+            },
+            {
+                "id": 26132,
+                "name": "läder",
+                "slug": "lader"
+            },
+            {
+                "id": 26010,
+                "name": "Lyserød Lørdag",
+                "slug": "lyserod-lordag"
+            },
+            {
+                "id": 26283,
+                "name": "M",
+                "slug": "m"
+            },
+            {
+                "id": 26271,
+                "name": "pennhållare",
+                "slug": "pennhallare"
+            },
+            {
+                "id": 26273,
+                "name": "pincetter",
+                "slug": "pincetter"
+            },
+            {
+                "id": 25930,
+                "name": "PodoWell",
+                "slug": "podowell"
+            },
+            {
+                "id": 26211,
+                "name": "presenter till vårdpersonal",
+                "slug": "presenter-till-vardpersonal"
+            },
+            {
+                "id": 26136,
+                "name": "remonte",
+                "slug": "remonte"
+            },
+            {
+                "id": 26269,
+                "name": "rund",
+                "slug": "rund"
+            },
+            {
+                "id": 26282,
+                "name": "S",
+                "slug": "s"
+            },
+            {
+                "id": 25866,
+                "name": "sax",
+                "slug": "sax"
+            },
+            {
+                "id": 26270,
+                "name": "saxar",
+                "slug": "saxar"
+            },
+            {
+                "id": 25916,
+                "name": "Sike Footwear",
+                "slug": "sike-footwear"
+            },
+            {
+                "id": 25828,
+                "name": "Silikon",
+                "slug": "silikon"
+            },
+            {
+                "id": 26268,
+                "name": "Silikone",
+                "slug": "silikone"
+            },
+            {
+                "id": 26265,
+                "name": "skecher",
+                "slug": "skecher"
+            },
+            {
+                "id": 26212,
+                "name": "skechers",
+                "slug": "skechers"
+            },
+            {
+                "id": 25939,
+                "name": "Smiley Face",
+                "slug": "smiley-face"
+            },
+            {
+                "id": 25889,
+                "name": "SSk butiken",
+                "slug": "ssk-butiken"
+            },
+            {
+                "id": 25800,
+                "name": "SSKbutiken",
+                "slug": "sskbutiken"
+            },
+            {
+                "id": 25829,
+                "name": "Stål",
+                "slug": "stal"
+            },
+            {
+                "id": 25946,
+                "name": "Stål,Guld",
+                "slug": "stalguld"
+            },
+            {
+                "id": 25972,
+                "name": "Stål,Silikon",
+                "slug": "stalsilikon"
+            },
+            {
+                "id": 26272,
+                "name": "tablettdelare",
+                "slug": "tablettdelare"
+            },
+            {
+                "id": 25938,
+                "name": "Utan gravyr",
+                "slug": "utan-gravyr"
+            },
+            {
+                "id": 25874,
+                "name": "väskor",
+                "slug": "vaskor"
+            },
+            {
+                "id": 25887,
+                "name": "Woly",
+                "slug": "woly"
+            },
+            {
+                "id": 26285,
+                "name": "XL",
+                "slug": "xl"
+            },
+            {
+                "id": 26281,
+                "name": "XS",
+                "slug": "xs"
+            },
+            {
+                "id": 26166,
+                "name": "iPhone 11",
+                "slug": "iphone-11"
+            },
+            {
+                "id": 26164,
+                "name": "iPhone 8",
+                "slug": "iphone-8"
+            },
+            {
+                "id": 26165,
+                "name": "iPhone X",
+                "slug": "iphone-x"
+            }
+        ],
+        "__IMTAGGLENGTH__": 374
+    }
+]
