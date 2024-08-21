@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Dictionary API</title>
+</head>
+<body>
+    <h1>JSON Dictionary API</h1>
+    <p>API'en er klar til brug. Send en GET-forespørgsel med en `id` parameter for at hente data.</p>
+    <pre id="output"></pre>
+
+    <script>
+        async function fetchData(id) {
+            const response = await fetch('attributes_cleaned.json');
+            const data = await response.json();
+            const result = data[id];
+
+            if (result) {
+                document.getElementById('output').textContent = JSON.stringify(result, null, 2);
+            } else {
+                document.getElementById('output').textContent = 'ID not found.';
+            }
+        }
+
+        // Function to get the 'id' parameter from the URL
+        function getQueryParam(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);
+        }
+
+        // On page load, fetch data if 'id' parameter is present
+        const id = getQueryParam('id');
+        if (id) {
+            fetchData(id);
+        } else {
+            document.getElementById('output').textContent = 'No ID provided in the URL.';
+        }
+    </script>
+</body>
+</html>
