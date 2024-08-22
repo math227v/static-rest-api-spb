@@ -275,7 +275,10 @@
         "Duset blomster": "Blomster",
         "70E": "90E",
         "49": "49",
-        "Sort": "svart"
+        "Sort": "svart",
+        "Til almindelige fødder": "För vanliga fötter",
+        "Til brede fødder": "För breda fötter",
+        "Til smalle fødder": "För smala fötter"
     },
     "category": {
         "19607": "17646",
