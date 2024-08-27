@@ -285,7 +285,16 @@
         "S\u00F8lv": "silver",
         "s\u00F8lv": "silver",
         "sand": "sand",
-        "M\u00f8rkebrun": "M\u00f6rkbrun"
+        "M\u00f8rkebrun": "M\u00f6rkbrun",
+        "2XL Hofte 126-135": "2XL Höfte 126-135",
+        "3XL Hofte 136-145": "3XL Höfte 136-145",
+        "4XL Hofte 146-155": "4XL Höfte 146-155",
+        "L Hofte 106-115": "L Höfte 106-115",
+        "M Hofte 99-105": "M Höfte 99-105",
+        "S Hofte 93-98cm": "S Höfte 93-98cm",
+        "XL Hofte 116-124": "XL Höfte 116-124",
+        "XS Hofte 93-98": "XS Höfte 93-98",
+        "XXS Hofte 84-87": "XXS Höfte 84-87"
     },
     "category": {
         "19607": "17646",
